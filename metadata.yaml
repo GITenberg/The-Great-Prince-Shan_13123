@@ -1,0 +1,30 @@
+_repo: The-Great-Prince-Shan_13123
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oppenheim, E. Phillips (Edward Phillips)
+    aliases:
+    - Oppenheim, Edward Phillips
+    - Partridge, Anthony
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '594'
+    url: http://www.gutenberg.org/2009/agents/594
+    wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
+description: ''
+gutenberg_issued: '2004-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcc 'PR'
+title: The Great Prince Shan
+url: http://www.gutenberg.org/ebooks/13123
